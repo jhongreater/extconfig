@@ -1,5 +1,5 @@
 {
-	"showWechat": true,
+	"showWechat": false,
 	"HotUpdateUrl": "http://www.baidu.com",
 	"Version": "1.0.0",
 	"RemoteHead": false,
