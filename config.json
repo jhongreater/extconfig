@@ -1,4 +1,5 @@
 {
 	"showWechat": 1,
-	"HotUpdateUrl": "http://www.baidu.com"
+	"HotUpdateUrl": "http://www.baidu.com",
+	"Version": "1.0.0"
 }
