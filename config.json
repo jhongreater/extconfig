@@ -1,5 +1,10 @@
 {
-	"showWechat": 1,
+	"showWechat": true,
 	"HotUpdateUrl": "http://www.baidu.com",
-	"Version": "1.0.0"
+	"Version": "1.0.0",
+	"RemoteHead": false,
+	"HeadUrl": {
+		"SKIN_Q ": "http: //192.168.18.253:9988",
+		"SKIN_HJ": "http://192.168.18.253:8899"
+	}
 }
