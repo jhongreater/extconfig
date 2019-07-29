@@ -18,5 +18,5 @@
 	}],
 	"showEmail": true,
 	"configStr": "ClientVersionConfig.json",
-	"res_server_url": "http://192.168.18.253/Download/hot/"
+	"res_server_url": "http://192.168.18.253:5432"
 }
