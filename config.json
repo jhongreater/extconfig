@@ -16,5 +16,7 @@
 		"id": 1001,
 		"img": "http://www.baidu.com/img1.png"
 	}],
-	"showEmail": true
+	"showEmail": true,
+	"configStr": "ClientVersionConfig.json",
+	"res_server_url": "http://192.168.18.253/Download/hot/"
 }
