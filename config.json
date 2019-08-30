@@ -3,7 +3,7 @@
 	"HotUpdateUrl": "http://www.baidu.com",
 	"Version": "1.1.1",
 	"RemoteHead": false,
-	"isDebug": false,
+	"isDebug": true,
 	"imgType": "png",
 	"HeadUrl": {
 		"SKIN_Q ": "http: //192.168.18.253:9988/touxiang/",
