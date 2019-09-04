@@ -3,7 +3,7 @@
 	"HotUpdateUrl": "http://www.baidu.com",
 	"Version": "1.1.1",
 	"RemoteHead": false,
-	"isDebug": true,
+	"isDebug": false,
 	"imgType": "png",
 	"HeadUrl": {
 		"SKIN_Q ": "http: //192.168.18.253:9988/touxiang/",
@@ -18,6 +18,6 @@
 	}],
 	"showEmail": true,
 	"configStr": "ClientVersionConfig.json",
-	"res_server_url": "http://192.168.18.253:5432/",
+	"res_server_url": "http://www.slxyhb.com/hotupdate/",
 	"useHotUpdate": true
 }
